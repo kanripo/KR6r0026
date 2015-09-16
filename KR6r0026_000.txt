@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 釋迦氏譜
+#+DATE: 2015-08-30 22:14:52.643379
+#+PROPERTY: JUAN 0
